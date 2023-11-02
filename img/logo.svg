@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.911804mm"
+   height="18.272064mm"
+   viewBox="0 0 48.911804 18.272064"
+   version="1.1"
+   id="svg456"
+   inkscape:export-filename="растровый.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview458"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs453">
+    <rect
+       x="523.85077"
+       y="959.72644"
+       width="198.66995"
+       height="124.67269"
+       id="rect394-3-3-3" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.716616,-139.36398)">
+    <g
+       id="g493"
+       transform="translate(-46.277386,-115.2634)">
+      <g
+         id="g654-3-3-75"
+         style="fill:#2e2e2e;fill-opacity:1"
+         transform="matrix(1.187955,0,0,1.187955,-37.311598,-57.653496)">
+        <g
+           id="g648-5-5-3"
+           style="fill:#2e2e2e;fill-opacity:1">
+          <g
+             id="g474-6-6-5"
+             style="fill:#2e2e2e;fill-opacity:1">
+            <text
+               xml:space="preserve"
+               transform="matrix(0.31191187,0,0,0.31191187,-23.543138,-40.524657)"
+               id="text392-2-2-6"
+               style="font-size:66.6667px;white-space:pre;shape-inside:url(#rect394-3-3-3);display:inline;fill:#2e2e2e;fill-opacity:1;stroke:#00ffff;stroke-width:2.64567"><tspan
+                 x="523.85156"
+                 y="1020.6915"
+                 id="tspan815"><tspan
+                   style="font-family:Draco;-inkscape-font-specification:Draco"
+                   id="tspan813">C</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9219px;font-family:Draco;-inkscape-font-specification:Draco;fill:#2e2e2e;fill-opacity:1;stroke:#00ffff;stroke-width:0.830289"
+         x="132.52177"
+         y="271.05383"
+         id="text450-7-7-2"><tspan
+           sodipodi:role="line"
+           id="tspan448-5-5-9"
+           style="fill:#2e2e2e;fill-opacity:1;stroke-width:0.830289"
+           x="132.52177"
+           y="271.05383">X</tspan></text>
+    </g>
+  </g>
+</svg>
